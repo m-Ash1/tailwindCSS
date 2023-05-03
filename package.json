@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-Ash1/tailwindCSS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-Ash1/tailwindCSS/issues"
+  },
+  "homepage": "https://github.com/m-Ash1/tailwindCSS#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}
